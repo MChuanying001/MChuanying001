@@ -1,7 +1,7 @@
-- 👋 Hi, I’m MChuanying001
-- 👀 I’m interested in Minecraft,Anti-Mini World
-- 🌱 I’m currently learning Python
-- 💞️ I’m Making 魔力赏(Python edition)
+- 🙂 Hi, I’m MChuanying001
+- 🎮 I’m interested in Minecraft,⚔️Anti-Mini World
+- 🖥️ I’m currently learning Python
+- 🎲 I’m Making 魔力赏(Python edition)
 - 📺 My personal space on Bilibili:https://space.bilibili.com/354849708
 
 <!---
