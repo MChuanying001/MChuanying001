@@ -1,2 +1,0 @@
-- 🙂 Hi, I’m MChuanying001
-- 🎮 I’m interested in Minecraft,⚔️Anti-Mini World
